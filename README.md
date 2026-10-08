@@ -1,7 +1,3 @@
-# Electro-Hub-Power-BI-Dashboard
-
-
-
 # ***ElectroHub Power BI Dashboard***
 
 ***Overview***
